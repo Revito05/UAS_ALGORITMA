@@ -1,0 +1,6 @@
+Pertama yang dilakukan yaitu data disorting, Teknik yang digunakan yaitu teknik sorting seperti bubble sort.
+
+kedua Setelah disorting lalu tambahkan codingan BST pada codingan yang kita buat supaya kita bisa 
+mencari data yang ingin kita cari menggunakan BST 
+
+ketiga root akan otomatis mencari data yang kita masukan karena kita menggunakan BST
